@@ -140,14 +140,6 @@ Example:
 
 ---
 
-## 🧠 Why Protect Webhooks?
-
-- Hide the real Discord webhook URLs from end users.
-- Prevent malicious users from deleting, spamming, or misusing your webhooks.
-- Add a simple control layer between your systems and Discord.
-
----
-
 ## 🧪 Example Usage with `curl`
 
 **Add a webhook:**
@@ -176,8 +168,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 💬 Final Notes
-
-> This API is designed to **improve webhook security**, not replace Discord's native security mechanisms.  
-> Always keep your API server protected and avoid exposing `webhooks.json` publicly!
 
