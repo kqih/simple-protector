@@ -34,7 +34,7 @@ pip install Flask requests
 ## 🚀 Running the Server
 
 ```bash
-python app.py
+python protector.py
 ```
 
 The server will start at:
