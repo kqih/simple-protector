@@ -156,7 +156,7 @@ curl -X POST http://localhost:5200/<uuid> -H "Content-Type: application/json" -d
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [GNU License](LICENSE).
 
 ---
 
