@@ -1,19 +1,11 @@
-# Discord Webhook Protector API 🚀
+# Simple Protector 🚀
 
 [![Flask](https://img.shields.io/badge/Flask-2.3+-blue)](https://flask.palletsprojects.com/)
 [![Python](https://img.shields.io/badge/Python-3.7+-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 ---
-
-## 📜 Description
-
 A lightweight Flask-based API designed to **protect Discord webhooks from deletion**.  
-Instead of exposing the original webhook URL, this API issues a unique ID for each webhook.  
-You can send messages using the ID without ever revealing the real webhook URL!
-
-The webhooks are **persistently stored** in a local `webhooks.json` file, making the system survive restarts or crashes.
-
 ---
 
 ## ✨ Features
