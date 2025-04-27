@@ -2,7 +2,7 @@
 
 [![Flask](https://img.shields.io/badge/Flask-2.3+-blue)](https://flask.palletsprojects.com/)
 [![Python](https://img.shields.io/badge/Python-3.7+-blue)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+[![License](https://img.shields.io/badge/License-GNU-green)](LICENSE)
 
 ---
 A lightweight Flask-based API designed to **protect Discord webhooks from deletion**.  
