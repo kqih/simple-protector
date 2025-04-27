@@ -1,6 +1,6 @@
-# Discord Webhook Manager API
+# Simple Protector
 
-A simple Flask-based API for managing and sending messages to Discord webhooks.
+A simple Flask-based API for protecting webhooks from deletion
 
 ## Features
 
