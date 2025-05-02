@@ -47,10 +47,6 @@ def add_webhook():
 
     return jsonify({"id": webhook_id}), 200
 
-@app.route("/list", methods=["GET"])
-def list_webhooks():
-    ids = load_webhooks()
-    return jsonify(ids), 200
 
 @app.route("/<id>", methods=["POST"])
 def webhook(id):
